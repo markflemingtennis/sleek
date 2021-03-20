@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Quick Tip: In Doubles Communicate Like A Football Quarterback
+title: "Quick Tip: In Doubles Communicate Like A Football Quarterback"
 featured-img: tennis-court-1081845_1920 (1)
 date: 03/30/2021
-summary: In doubles players frequently find themselves in one up and one back situation. When doubles teams are in this formation, and the opponents lob over the net person's head, what are the players' resulting responsibilities?
+summary: "In doubles players frequently find themselves in one up and one back situation." 
 ---
 
 In doubles players frequently find themselves in one up and one back situation.
