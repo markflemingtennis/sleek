@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quick Tip: In Doubles Communicate Like A Football Quarterback"
-featured-img: tennis-court-1081845_1920 (1)
+featured-img: tennis-court
 summary: "In doubles players frequently find themselves in one up and one back situation."
 ---
 
